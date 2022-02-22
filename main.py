@@ -6,8 +6,7 @@ import time
 from bs4 import BeautifulSoup
 
 List = [
-    {'platform': 'bilibili', 'name': '双尾彗星', 'url': 'https://live.bilibili.com/1496449'},
-    {'platform': 'bilibili', 'name': 'test', 'url': 'https://live.bilibili.com/21495945'}
+    {'platform': 'bilibili', 'name': '姥爷互殴模拟器', 'url': 'https://live.bilibili.com/737562'}
 ]
 
 Platform_List = {
